@@ -1,2 +1,20 @@
-# git_github_emails_780-thornfield-graph-coarsen-a4d9
-Research code for the Thornfield lab.
+# Efficient Graph Coarsening via Spectral Sketching
+
+## Repository Status
+
+**Released** — code and model checkpoints are publicly available.
+
+This repository contains the implementation and experimental code for the paper "Efficient Graph Coarsening via Spectral Sketching".
+
+## Contents
+
+- `src/` — model and training code
+- `data/` — dataset preparation scripts
+- `experiments/` — experiment configuration
+- `notebooks/` — analysis notebooks
+- `results/` — reported metrics
+- `tests/` — smoke tests
+
+## Citation
+
+Please cite the paper above when using this code.
